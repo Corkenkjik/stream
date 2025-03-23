@@ -1,0 +1,11 @@
+.env
+archive
+mock
+asdzx.txt
+is_reset.json
+log.csv
+run.md
+sth.ts
+*.png
+*.jpg
+*.webp
